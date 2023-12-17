@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello! 👋 I'm Jay
 
+I'm a software engineer based in Brooklyn, NY with extensive experience in JavaScript and Ruby and proficiency in TypeScript, Go, and various frameworks.
+
+
+I bring business context and customer empathy to my work from experience on the business side of several startups in e-commerce, predictive analytics, and performance marketing. I have partnered with product and engineering leaders and customers.
+
+Most recently, I created [Arbiter](https://arbiter-framework.com), an open-source, cloud-native framework that seamlessly integrates video conferencing into existing web applications</p>
+
+Find out more:
+- [Arbiter Case Study](https://arbiter-framework.com/case-study)
+- [My Website](https://jayabose.me/)
 <!--
 **jayjayabose/jayjayabose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
